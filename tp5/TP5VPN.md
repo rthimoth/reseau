@@ -175,14 +175,14 @@ interface: wg0
 ```ping -c 1 10.8.0.1```
 
 >Envoi d’une requête 'Ping'  10.8.0.1 avec 32 octets de données :
-Réponse de 10.8.0.1 : octets=32 temps=45 ms TTL=64
-Réponse de 10.8.0.1 : octets=32 temps=46 ms TTL=64
-Réponse de 10.8.0.1 : octets=32 temps=47 ms TTL=64
-Réponse de 10.8.0.1 : octets=32 temps=46 ms TTL=64
-Statistiques Ping pour 10.8.0.1:
-    Paquets : envoyés = 4, reçus = 4, perdus = 0 (perte 0%),
-Durée approximative des boucles en millisecondes :
-    Minimum = 43ms, Maximum = 48ms, Moyenne = 46ms
+>Réponse de 10.8.0.1 : octets=32 temps=45 ms TTL=64
+>Réponse de 10.8.0.1 : octets=32 temps=46 ms TTL=64
+>Réponse de 10.8.0.1 : octets=32 temps=47 ms TTL=64
+>Réponse de 10.8.0.1 : octets=32 temps=46 ms TTL=64
+>Statistiques Ping pour 10.8.0.1:
+   > Paquets : envoyés = 4, reçus = 4, perdus = 0 (perte 0%),
+>Durée approximative des boucles en millisecondes :
+    >Minimum = 43ms, Maximum = 48ms, Moyenne = 46ms
 
 
 >[Interface]
