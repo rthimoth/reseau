@@ -1,0 +1,8 @@
+>[Interface]
+PrivateKey = gMGJ+VsMD9s0wg4KpxJtIJbNImpZDKwb/qs8mRQO/lw=
+Address = 10.8.0.2/24
+
+[Peer]
+PublicKey = 4Gv0Ft5dj/BjgrzzhFlKsnE57T6vPZYbLf8hA7SkpzU=
+AllowedIPs = 10.8.0.0/24
+Endpoint = 51.68.70.139:51820
